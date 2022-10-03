@@ -14,7 +14,7 @@
   📖️ I know javascript,python and more...<br>
   💙️ I'm friendly, I have a lot of friends <br>
   🔥️ All I want is to share quality repos on github <br>
-  🍍️ You can contact me on discord. 十Beytuم#3197#1173 <br>
+  🍍️ You can contact me on discord. 十Beytuم3197<br>
   </h3>
   <br/>
   <img src="https://skillicons.dev/icons?i=nextjs,nuxtjs,python,javascript,typescript,react,php,html,css,figma,graphql,nodejs,vscode,discord&theme=dark" />
